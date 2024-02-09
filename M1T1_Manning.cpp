@@ -1,7 +1,7 @@
-// M1T1
+//M1T1
 //Hello World
-//My Name
-//The Current Date
+//Gia Manning
+//2-3-2024
 
 #include <iostream> 
 using namespace std;
